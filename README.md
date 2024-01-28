@@ -1,2 +1,2 @@
-# MDS-CL
-The code for MDS-CL will be released soon.
+# MDS-CLMoE
+The source codes and checkpoints for MDS-CLMoE will be released soon.
